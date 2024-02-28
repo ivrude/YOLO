@@ -1,0 +1,6 @@
+train: 'D:/Malaria proj/train'
+val: 'D:/Malaria proj/val'
+
+nc: 1
+
+names: [mal]
